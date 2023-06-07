@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/bbdt-website/static/css/main.518e6d4a.css",
-    "main.js": "/bbdt-website/static/js/main.a4d1b5e1.js",
+    "main.css": "/bbdt-website/static/css/main.e819912e.css",
+    "main.js": "/bbdt-website/static/js/main.fd733f9c.js",
     "static/js/787.5a419ef2.chunk.js": "/bbdt-website/static/js/787.5a419ef2.chunk.js",
+    "static/media/hero-image-mobile.png": "/bbdt-website/static/media/hero-image-mobile.2860b2ffb208c456b21f.png",
     "static/media/hero-image.png": "/bbdt-website/static/media/hero-image.3e188df8015272ed009a.png",
     "static/media/brown-logo.png": "/bbdt-website/static/media/brown-logo.4bb10cb99fcbbb8e5c62.png",
     "index.html": "/bbdt-website/index.html",
-    "main.518e6d4a.css.map": "/bbdt-website/static/css/main.518e6d4a.css.map",
-    "main.a4d1b5e1.js.map": "/bbdt-website/static/js/main.a4d1b5e1.js.map",
+    "main.e819912e.css.map": "/bbdt-website/static/css/main.e819912e.css.map",
+    "main.fd733f9c.js.map": "/bbdt-website/static/js/main.fd733f9c.js.map",
     "787.5a419ef2.chunk.js.map": "/bbdt-website/static/js/787.5a419ef2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.518e6d4a.css",
-    "static/js/main.a4d1b5e1.js"
+    "static/css/main.e819912e.css",
+    "static/js/main.fd733f9c.js"
   ]
 }
