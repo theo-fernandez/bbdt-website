@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/bbdt-website/static/css/main.4023672b.css",
-    "main.js": "/bbdt-website/static/js/main.311cd3c9.js",
+    "main.js": "/bbdt-website/static/js/main.84035ef4.js",
     "static/js/787.5a419ef2.chunk.js": "/bbdt-website/static/js/787.5a419ef2.chunk.js",
     "static/media/hero-image-mobile.png": "/bbdt-website/static/media/hero-image-mobile.2860b2ffb208c456b21f.png",
     "static/media/hero-image.png": "/bbdt-website/static/media/hero-image.3e188df8015272ed009a.png",
     "static/media/brown-logo.png": "/bbdt-website/static/media/brown-logo.4bb10cb99fcbbb8e5c62.png",
     "index.html": "/bbdt-website/index.html",
     "main.4023672b.css.map": "/bbdt-website/static/css/main.4023672b.css.map",
-    "main.311cd3c9.js.map": "/bbdt-website/static/js/main.311cd3c9.js.map",
+    "main.84035ef4.js.map": "/bbdt-website/static/js/main.84035ef4.js.map",
     "787.5a419ef2.chunk.js.map": "/bbdt-website/static/js/787.5a419ef2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4023672b.css",
-    "static/js/main.311cd3c9.js"
+    "static/js/main.84035ef4.js"
   ]
 }
